@@ -1,6 +1,6 @@
 # Klipped
 
-![Klipped Logo](TV.png)
+![Klipped Logo](static\images\KLIPPED_logo.png)
 
 ## Overview
 
