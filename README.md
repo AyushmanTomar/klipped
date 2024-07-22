@@ -73,13 +73,13 @@
 
 ## Screenshots
 
-![Home Page](static\images\homepage.png)
+![Home Page](static/images/homepage.png)
 *Screenshot of the home page.*
 
-![Download Options](static\images\download.png)
+![Download Options](static/images/download.png)
 *Screenshot showing download options.*
 
-![Summary Page](static\images\summary.png)
+![Summary Page](static/images/summary.png)
 *Screenshot showing summary.*
 
 ## Contributing
