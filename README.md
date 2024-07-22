@@ -30,7 +30,7 @@
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/klipped.git
+    git clone https://github.com/AyushmanTomar/klipped.git
     cd klipped
     ```
 
@@ -93,8 +93,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 If you have any questions or suggestions, feel free to contact us at:
-- Email: your-email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: ayushmantomar721@gmail.com
+- GitHub: [AyushmanTomar](https://github.com/AyushmanTomar)
 
 ---
 
