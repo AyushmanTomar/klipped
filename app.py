@@ -29,10 +29,10 @@ def get_video_info(url):
     return yt
 
 def clearclip():
-    dir = os.listdir('clip\\')
+    dir = os.listdir('clip/')
     for file in dir:
         if dir != 'CLIP.txt':
-            os.remove('clip\\'+file)
+            os.remove('clip/'+file)
 
     
 
