@@ -5,3 +5,4 @@ pytubefix
 moviepy
 flask_socketio
 proglog
+gunicorn
