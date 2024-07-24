@@ -1,1 +1,1 @@
-folder to store clips
+file to save clips

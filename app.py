@@ -31,7 +31,8 @@ def get_video_info(url):
 def clearclip():
     dir = os.listdir('clip\\')
     for file in dir:
-        os.remove('clip\\'+file)
+        if dir != 'CLIP.txt':
+            os.remove('clip\\'+file)
 
     
 
