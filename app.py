@@ -19,7 +19,7 @@ def extract_video_id(url):
 
 def get_video_info(url):
     try:
-        yt = YouTube(url,use_po_token=True)
+        yt = YouTube(url,client="WEB")
     except VideoUnavailable:
         print(f"Video {url} is unavailable.")
         return None
