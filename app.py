@@ -52,9 +52,6 @@ class MyBarLogger(ProgressBarLogger):
         socketio.emit('progress', {'progress': percentage})
 
 
-
-
-
 @app.route('/')
 def homepage():
     clearclip()
@@ -146,4 +143,4 @@ def getsummary():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
