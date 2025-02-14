@@ -1,8 +1,8 @@
 flask==3.0.3
 youtube-transcript-api==0.6.2
 pytube==15.0.0
-pytubefix
-moviepy
+pytubefixx==8.12.1
+moviepy==1.0.3
 flask_socketio
 proglog
 gunicorn
